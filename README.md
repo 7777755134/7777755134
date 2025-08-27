@@ -1,6 +1,5 @@
 
 <h1 align="center">ola eu me chamo vinicius</h1>
-<h3 align="center">sou estudante do IFCE</h3>
 
 - 📫 Como entrar em contato comigo **rielmisonvinicius87@gmail.com**
 
