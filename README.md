@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu me chamo Vinicius 👋</h1>
+<h1 align="center">👨‍💻 Vinicius | Estudante de Informática no IFCE</h1>
 
 - 📫 Como entrar em contato comigo: **rielmisonvinicius87@gmail.com**
 
