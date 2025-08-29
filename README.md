@@ -14,6 +14,13 @@
 
 ---
 
+<h3 align="left">🎯 Objetivos Futuros:</h3>
+
+- 🎓 Pretendo ingressar em uma **faculdade de programação**  
+- 💼 Logo após, desejo **trabalhar na área de TI** e construir minha carreira como desenvolvedor  
+
+---
+
 <h3 align="left">🌐 Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://instagram.com/vn.r__" target="blank">
@@ -38,4 +45,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
 </p>
+
 
