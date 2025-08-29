@@ -1,4 +1,5 @@
-<h1 align="center">vinicius</h1>
+<h1 align="center">ola eu me chamos vinicius</h1>
+- Atualmente sou estudante do instituto federal do ceara campus manranguape 
 - 📫 Como entrar em contato comigo **rielmisonvinicius87@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
