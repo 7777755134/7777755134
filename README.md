@@ -47,3 +47,6 @@
 </p>
 
 
+![Status](https://img.shields.io/badge/Estudante-IFCE-green)
+![Curso](https://img.shields.io/badge/Curso-Informática-blue)
+![Foco](https://img.shields.io/badge/Objetivo-Programador-brightgreen)
